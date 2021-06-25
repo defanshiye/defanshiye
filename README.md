@@ -12,8 +12,8 @@
 
 #### My Stuffs: 
 
-<div style="width: 100%;display: flex;">
-    <div style="width: 40%;font-size: 20px">
+<div>
+    <div>
         - 
         <br/>
         - 
@@ -24,5 +24,5 @@
         <br/>
         - 
     </div>
-    <img alt="" width="50%" src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/100/17.svg"/>
+    <img align="right" alt="" src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/100/17.svg"/>
 </div>
