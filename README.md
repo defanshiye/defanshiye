@@ -10,7 +10,7 @@ to be a creator, keep in mind that always.
 <br/>
 
 ### Talking About Personal Stuffs:
-<img align="right" alt="" width="40%" src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/100/17.svg"/>
+<img align="right" alt="" width="36%" src="https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/100/17.svg"/>
 <br/>
 
 ```javascript
